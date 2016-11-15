@@ -1,7 +1,9 @@
+//'Kissa'-muuttuja eläintiedon taltiointiin
+
 // Master-haarassa 
-var z = 1;
 var y = 'kissa';
 var x = 3;
 if (x > 7) { 
 echo x+1;
 }
+

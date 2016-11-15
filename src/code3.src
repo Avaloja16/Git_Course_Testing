@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 //Muutoksia tiedostoon
 var x = 10
 y = 'hassu koira'
+=======
+testiteseti testi testi testi
+>>>>>>> 04f7f885d74439612c4cd8564af5a7d906b75f1b
 start;

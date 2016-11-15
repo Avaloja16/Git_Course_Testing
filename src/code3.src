@@ -1,1 +1,4 @@
+//Muutoksia tiedostoon
+var x = 10
+y = 'hassu koira'
 start;

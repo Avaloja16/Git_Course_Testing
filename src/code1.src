@@ -1,5 +1,5 @@
+//Uusi kommentti tähän code1.src tiedostoon
 //'Kissa'-muuttuja eläintiedon taltiointiin
-
 // Master-haarassa 
 var y = 'kissa';
 var x = 3;
